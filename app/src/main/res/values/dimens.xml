@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="value_30_px">30px</dimen>
+    <dimen name="value_60_px">60px</dimen>
+    <dimen name="value_10_px">10px</dimen>
+    <dimen name="value_20_px">20px</dimen>
+    <dimen name="value_1_px">1px</dimen>
+    <dimen name="value_120_px">120px</dimen>
+    <dimen name="value_5_px">5px</dimen>
+
+
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="indicator_external_padding">8dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    <dimen name="header_footer_internal_padding">20dp</dimen>
+    <dimen name="header_footer_ecterl_padding">40dp</dimen>
+
+    <dimen name="cycle_view_height">180dp</dimen>
+    <dimen name="cycle_view_doc_layout_height">20dp</dimen>
+    <dimen name="cycle_view_doc_height">8dp</dimen>
+    <dimen name="cycle_view_doc_padding">15dp</dimen>
+    <dimen name="cycle_view_text_padding">10dp</dimen>
+
+    <dimen name="progress_w_h">15dp</dimen>
+
+
+    <dimen name="font_size">15dp</dimen>
+    <!-- 顶部按钮栏高度 -->
+    <dimen name="pickerview_topbar_height">44dp</dimen>
+    <!-- 顶部按钮paddingLeft -->
+    <dimen name="pickerview_topbar_paddingleft">10dp</dimen>
+    <!-- 顶部按钮paddingRight -->
+    <dimen name="pickerview_topbar_paddingright">30dp</dimen>
+    <!-- 顶部按钮文字大小 -->
+    <dimen name="pickerview_topbar_btn_textsize">20sp</dimen>
+    <dimen name="pickerview_topbar_title_textsize">20sp</dimen>
+    <!-- 选项文字大小 需要配合 bools.xml 的 pickerview_customTextSize 为 true 才有效果-->
+    <dimen name="pickerview_textsize">20sp</dimen>
+    <dimen name="normal_font">14sp</dimen>
+    <dimen name="value_20_dp">20dp</dimen>
+    <dimen name="value_10_dp">10dp</dimen>
+    <dimen name="value_x_dp">2dp</dimen>
+    <dimen name="value_80_px">80px</dimen>
+    <dimen name="value_40_px">40px</dimen>
+    <dimen name="historyscore_tb">10dp</dimen>
+
+
+
+    <dimen name="value_56_px">56px</dimen>
+    <dimen name="value_54_px">54px</dimen>
+    <dimen name="value_720_px">720px</dimen>
+    <dimen name="value_34_px">34px</dimen>
+    <dimen name="value_16_sp">16sp</dimen>
+    <dimen name="value_14_sp">14sp</dimen>
+    <dimen name="value_5_dp">5dp</dimen>
+    <dimen name="value_0.5_dp">0.5dp</dimen>
+</resources>

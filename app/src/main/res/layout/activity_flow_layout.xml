@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              xmlns:zhy="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              tools:context="com.yanftch.test.flowlayout.FlowLayoutActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        />
+
+    <com.yanftch.test.flowlayout.flowlayout.FlowLayout
+        android:id="@+id/flowlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="人车号哦"
+            android:background="@drawable/shape_rectangle"
+            android:textColor="@color/black"
+            android:textSize="@dimen/value_16_sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="人车号哦"
+            android:background="@drawable/shape_rectangle"
+            android:textColor="@color/black"
+            android:textSize="@dimen/value_16_sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="童话世界的你懂不懂 "
+            android:textColor="@color/black"
+            android:background="@drawable/shape_rectangle"
+            android:textSize="@dimen/value_16_sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="123456"
+            android:background="@drawable/shape_rectangle"
+            android:textColor="@color/black"
+            android:textSize="@dimen/value_16_sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="童话世界的你懂不懂 "
+            android:background="@drawable/shape_rectangle"
+            android:textColor="@color/black"
+            android:textSize="@dimen/value_16_sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="123456"
+            android:background="@drawable/shape_rectangle"
+            android:textColor="@color/black"
+            android:textSize="@dimen/value_16_sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="人车号哦"
+            android:background="@drawable/shape_rectangle"
+            android:textColor="@color/black"
+            android:textSize="@dimen/value_16_sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="童话世界的你懂不懂 "
+            android:textColor="@color/black"
+            android:background="@drawable/shape_rectangle"
+            android:textSize="@dimen/value_16_sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="123456"
+            android:background="@drawable/shape_rectangle"
+            android:textColor="@color/black"
+            android:textSize="@dimen/value_16_sp"/>
+
+
+    </com.yanftch.test.flowlayout.flowlayout.FlowLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnGetMyData"
+        android:text="123"/>
+
+    <com.yanftch.test.flowlayout.flowlayout.TagFlowLayout
+        android:id="@+id/id_flowlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        zhy:max_select="-1"/>
+
+</LinearLayout>

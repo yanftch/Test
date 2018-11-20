@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="arcHeight" format="dimension"/>
+
+    <declare-styleable name="ArcView">
+        <attr name="arcHeight"/>
+        <attr name="bgColor" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="ArcImageView">
+        <attr name="arcHeight"/>
+    </declare-styleable>
+
+    <declare-styleable name="wheelview">
+        <attr name="gravity">
+            <enum name="center" value="17" />
+            <enum name="left" value="3" />
+            <enum name="right" value="5" />
+        </attr>
+        <attr name="textSize" format="dimension" />
+        <attr name="textColorOut" format="color" />
+        <attr name="textColorCenter" format="color" />
+        <attr name="dividerColor" format="color" />
+    </declare-styleable>
+    <!--自定义进度样式-->
+    <declare-styleable name="progressStatus">
+        <!--3个图标-->
+        <attr name="ivLeft" format="reference" />
+        <attr name="ivMiddle" format="reference" />
+        <attr name="ivRight" format="reference" />
+        <attr name="ivLeft_bg" format="reference|integer|color" />
+        <attr name="ivMiddle_bg" format="reference|integer|color" />
+        <attr name="ivRight_bg" format="reference|integer|color" />
+        <!--是否显示图标-->
+        <attr name="isHideIcon" format="boolean" />
+        <!-- 标题 -->
+        <attr name="text_left" format="string|integer" />
+        <attr name="text_middle" format="string|integer" />
+        <attr name="text_right" format="string|integer" />
+        <!-- 标题(下) -->
+        <attr name="text_left_bottom" format="string|integer" />
+        <attr name="text_middle_bottom" format="string|integer" />
+        <attr name="text_right_bottom" format="string|integer" />
+        <!-- 进度值 1 2 3 -->
+        <attr name="progress_schedule" format="integer" />
+        <!-- 进度颜色 -->
+        <attr name="progress_color" format="reference|color" />
+    </declare-styleable>
+
+
+
+    <string-array name="icon_array">
+        <item>@mipmap/ic_ac_unit_black</item>
+        <item>@mipmap/ic_airport_shuttle_black</item>
+        <item>@mipmap/ic_all_inclusive_black</item>
+        <item>@mipmap/ic_beach_access_black</item>
+        <item>@mipmap/ic_casino_black</item>
+        <item>@mipmap/ic_child_care_black</item>
+        <item>@mipmap/ic_child_friendly_black</item>
+        <item>@mipmap/ic_free_breakfast_black</item>
+    </string-array>
+
+    <declare-styleable name="XRefreshView">
+        <attr name="isHeightMatchParent" format="boolean" />
+        <attr name="isWidthMatchParent" format="boolean" />
+        <attr name="autoRefresh" format="boolean" />
+        <attr name="autoLoadMore" format="boolean" />
+    </declare-styleable>
+
+
+    <!--设置指示条的个数的自定义属性-->
+    <attr name="item_count" format="integer"></attr>
+    <!--设置指示条宽度的放大系数-->
+    <attr name="item_magnification" format="float"></attr>
+    <declare-styleable name="ViewPagerIndicator">
+        <attr name="item_count" />
+        <attr name="item_magnification" />
+    </declare-styleable>
+    <declare-styleable name="ConvenientBanner">
+        <attr name="canLoop" format="boolean"/>
+    </declare-styleable>
+    <declare-styleable name="TagFlowLayout">
+        <attr name="max_select" format="integer"></attr>
+        <attr name="tag_gravity">
+            <enum name="left" value="-1" />
+            <enum name="center" value="0" />
+            <enum name="right" value="1" />
+        </attr>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/yanftch/Documents/workspace/Test/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/mipmap-mdpi/img_delete.png",
+        "source": "/Users/yanftch/Documents/workspace/Test/app/src/main/res/mipmap-mdpi/img_delete.png"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/yanftch/Documents/workspace/Test/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/mipmap-mdpi/img_delete.png",
+        "source": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/src/main/res/mipmap-mdpi/img_delete.png"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

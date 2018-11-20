@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/yanftch/.android/build-cache/64c1d2447456b977d307a316e68f5e4604fec03b/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/yanftch/.android/build-cache/64c1d2447456b977d307a316e68f5e4604fec03b/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/yanftch/.android/build-cache/64c1d2447456b977d307a316e68f5e4604fec03b/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/yanftch/.android/build-cache/64c1d2447456b977d307a316e68f5e4604fec03b/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/yanftch/.android/build-cache/64c1d2447456b977d307a316e68f5e4604fec03b/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/yanftch/.android/build-cache/64c1d2447456b977d307a316e68f5e4604fec03b/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/anim/slide_out_bottom.xml",
+        "source": "/Users/yanftch/Documents/workspace/Test/app/src/main/res/anim/slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/anim/slide_out_bottom.xml",
+        "source": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/src/main/res/anim/slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/yanftch/.android/build-cache/64c1d2447456b977d307a316e68f5e4604fec03b/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/anim/dialog_enter_anim.xml",
+        "source": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/src/main/res/anim/dialog_enter_anim.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/yanftch/.android/build-cache/64c1d2447456b977d307a316e68f5e4604fec03b/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/anim/slide_in_bottom.xml",
+        "source": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/src/main/res/anim/slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/yanftch/.android/build-cache/64c1d2447456b977d307a316e68f5e4604fec03b/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/anim/dialog_exit_anim.xml",
+        "source": "/Users/yanftch/Documents/workspace/Test/app/src/main/res/anim/dialog_exit_anim.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/yanftch/.android/build-cache/64c1d2447456b977d307a316e68f5e4604fec03b/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/anim/dialog_exit_anim.xml",
+        "source": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/src/main/res/anim/dialog_exit_anim.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/yanftch/.android/build-cache/64c1d2447456b977d307a316e68f5e4604fec03b/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/anim/dialog_enter_anim.xml",
+        "source": "/Users/yanftch/Documents/workspace/Test/app/src/main/res/anim/dialog_enter_anim.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/yanftch/.android/build-cache/64c1d2447456b977d307a316e68f5e4604fec03b/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/anim/slide_in_bottom.xml",
+        "source": "/Users/yanftch/Documents/workspace/Test/app/src/main/res/anim/slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    }
+]

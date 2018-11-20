@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/64c1d2447456b977d307a316e68f5e4604fec03b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_295cffed99171204c60d35ead1b41a90d34154d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_d9e4ee0875a88a77d7b35ef5038d046ec5c8b33a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_9678917abd5dbadb9ea28605fec54e0563e367c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/7589dd73c2bddba1a2110ccb9ef3e8fc618fa6d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_f176cab8e3b5f189ae30fa38ef39694792e5dee7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_25b1f04b07155b1e0f194aea20eb16166e4c1e5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/ccf999cb303dc9d0868acb5e31457c2c6f238e35/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_5f2432d753ae6871ea42360f4e9917fc59aef3e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a71824e61f72e6db5b4e62633bf7be30f7eb202">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_c009b907848edbe51bfee9ae4540ddb878857abf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/Documents/workspace/as_workspace/Test/app/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3_969e63023503960881b60a112e654078726ca175.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/6a35702a46499428194e3363c7c6cab0bc1be0a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_77514352355bd3e8e6f92940d73c03987f1a0d20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/gson-2.8.0_ae58965e12ee42b69988fbadceb216515fe04ccb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/2ec6d0c4b8614abc44f299148bf13baa0850ebc7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_f1932d1a41cdec7172f3ccf5e8681fc5bec9db99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_cd203509ba3841b46396de73de4dd97a88f724fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/2cfd0724c654ff17d30573593350f9989c740032/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_f0eecdd7f867b949121aca0d5437da55a4b222b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.0.0/d88059003509074dd59fa226c822724bcf5ec0ca/disklrucache-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d88059003509074dd59fa226c822724bcf5ec0ca">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/disklrucache-4.0.0_38e7ebed51bebf251c8c80f68b1377e0170ea8d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/Documents/workspace/as_workspace/Test/nrl/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a8d5c0e015e1cc9f674d3f4a32d38672d930fbd">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_dc3f140fe279886c5574a2a9550948e9118361d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_2854f8e0e31f2d27c6add35c2f057eb32cffcc47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/fdd6c8a2d2f0ed55f660c9a55c596a940f412290/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4d54db938b3aeb4d15accccfe979af63e03d48e">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_adcdb250fb5b19ee68a7cd127a161a3cc8bf951a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_32ee73270070251ee33f7fb284f3bae4d676e67d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/66a0624c6f2b289bd308866dec453695ec668c4c/output/jars/libs/liteplaysdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7712e0e2416a11aca562bc4727435d1c26a9ba93">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/liteplaysdk_70ce1e5168a70a2b61199a278d37433b19fa2b1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/a95c69739d8e6dbbb127cc38ba5d276482422154/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_8caa3c948701aa0dc45a29a59385e0f63ee332e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_dff8b9539b2ecff57631797356a0ccfa0dcc516a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/ab7833f9fb7039681ff4a06b96f2d085f465c43b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_1ba464fa68b663605b1d8956b752e0062c4f1a1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/Documents/develop/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_657f1c0972a2d8e4cc52b6d7299e9c376fa2b717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.1.0/d6854f42bfb4098d3d2358d93201307b9f1cc95d/butterknife-annotations-8.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.1.0_e216c41bb659d42b6907ac5b487db6ecd57e4d4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/69a6d6ee30805c92e9af7fd323297d4e80333d57/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_e28bbd965b4f124ee80303e450871993674f5f64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.8/f9dbae366a6a3d6b5041c5e8db0dcdfdc35c27b5/rxjava-1.1.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9dbae366a6a3d6b5041c5e8db0dcdfdc35c27b5">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/rxjava-1.1.8_26a57a3bd5fe6ee2d6cd6297d4f9af935c4920b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.1.0_4b21d9fc5bab0dbcfb252dfa7af8f19a3d814cfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/Documents/develop/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta4_0810a5d5adfd05f4a12ea721ead39e479f1d0cc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/a16dc3582cc07fdea2468c2f21c5725df200bb78/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="59ab24f91ed78ef21bb161e395cf73c29b975de5">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_4dc64c04372f61e67e5f856eb72bced5a24052c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/b38405a2072a88954e4509b98150737edb9bad45/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_95623cbeca01abd9ea91ab8173aa6cb75ed6ad67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/61ee33912398596d59bb7e0acff5ee56b0083e86/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_ac8cc7edd4c163ad4a6f8d17993d41189e2a512e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.0.0/dff931af436f0a2815d0109ab2258bbce2d6275d/glide-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dff931af436f0a2815d0109ab2258bbce2d6275d">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/glide-4.0.0_11a494c9165e6c389c607d8de9a4f1a0092a15bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/f33dca35bb7a16f8155ee17f79f2cfc6248794ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_89e23d7f11061e00ec4aba43157d31e4c4b78775.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/2cfd0724c654ff17d30573593350f9989c740032/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_8125eb81480d3d8ba3bb37aa4e5fb8f53d8f2ce8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/66a0624c6f2b289bd308866dec453695ec668c4c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b383e01dc824fe6feb32b0fe83da5cd70ac7f01">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_8ca820573f8f53450895da86b1cc6f04b36dbcc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/c46feaa37563575d3fceee606649aaaf758dd822/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_a919c97e1336b1228157f26ace3446c815c045fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.0.0/f80192e6fd828d41c7da6f3552b0bef5d89cb26e/annotations-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f80192e6fd828d41c7da6f3552b0bef5d89cb26e">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/annotations-4.0.0_b1546ca6452ddb0b822383c77be566286b109f5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.3.1/2626e02aa9592edd5386d87408e05727303d9ded/baseLibrary-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2626e02aa9592edd5386d87408e05727303d9ded">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/baseLibrary-2.3.1_65a8c34078e62a78be0a70dbd28209eb03752e91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/7eb9939af22627ea5e4ef38276372e7c624ac787/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_33adc40bfc09ed5cc533a0906437f2fc0bec544c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/85cc3a759185f10642fa48c4be6a7cbb0075d613/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="131ba28165334cd7b63ec6b569446f3b289a3010">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_d360da340554bd8735d8abb15815cb7cd4266666.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/4869c0a2fa51b727dd48b623248d982dc908e053/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_7c8524a972795423cd5fba5444feda8d88c3988d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.0.0/47c487cc4e64e6ab127a517669ca9a7b49f8c61d/gifdecoder-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47c487cc4e64e6ab127a517669ca9a7b49f8c61d">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/gifdecoder-4.0.0_f25b2d65c9851c23418a0b6283185495fc3a116e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/61ee33912398596d59bb7e0acff5ee56b0083e86/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_e97083d38cf3ef90fd6b98afb3e80e97ac15d5e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/d724742ca9dd892a2e178787d040fa37538d58a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_d70b028e06ff439b8b23f121f536b0ea0d8e14fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/69a6d6ee30805c92e9af7fd323297d4e80333d57/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_394b831c10cd50cc41bb25dd72beca6b9979d75c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/7eb9939af22627ea5e4ef38276372e7c624ac787/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a26cf3b7f387c7d002c43b7b6e07f6c284db5dc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/okio-1.11.0_5aa246c126e1f5f14673a905dbfe8bf77028676f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yanftch/.android/build-cache/ccf999cb303dc9d0868acb5e31457c2c6f238e35/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/pre-dexed/debug/classes_1513c20d65957ecfe0158884c425ffeafd1fe85c.jar" />
+    </item>
+
+</items>

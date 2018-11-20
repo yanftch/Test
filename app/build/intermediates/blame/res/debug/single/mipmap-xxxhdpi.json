@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/yanftch/Documents/workspace/Test/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/yanftch/Documents/workspace/as_workspace/Test/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/Test/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/yanftch/Documents/workspace/Test/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]
