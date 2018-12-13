@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/values-ky/values-ky.xml",
+            "map": [
+                {
+                    "source": "/Users/yanftch/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d5fde2e3e1f10984cbdc28ff08691ec5/res/values-ky/values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml",
+            "map": [
+                {
+                    "source": "/Users/yanftch/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d5fde2e3e1f10984cbdc28ff08691ec5/res/values-ky/values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

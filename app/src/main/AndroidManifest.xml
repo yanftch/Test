@@ -77,8 +77,6 @@
         </activity>
         <activity android:name=".tab.TabChangeActivity">
         </activity>
-        <activity android:name=".pullrefresh.PullActivity">
-        </activity>
         <activity android:name=".xlistview.XListViewActivity">
         </activity>
         <activity android:name=".diy_listview.DiyListViewActivity">

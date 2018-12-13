@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/Users/yanftch/Documents/workspace/Test/library/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/layout-v16/notification_template_custom_big.xml"
-    },
-    {
         "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/layout-v16/notification_template_custom_big.xml"
+        "source": "/Users/yanftch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/e46f02a99826d208792e11fd68b94626/res/layout-v16/notification_template_custom_big.xml"
     }
 ]

@@ -1,154 +1,78 @@
 [
     {
-        "merged": "/Users/yanftch/Documents/workspace/Test/library/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "/Users/yanftch/Documents/workspace/Test/library/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/switch_thumb_material_light.xml"
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/yanftch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/e46f02a99826d208792e11fd68b94626/res/color/abc_hint_foreground_material_light.xml"
     },
     {
         "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "/Users/yanftch/Documents/workspace/Test/library/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "/Users/yanftch/Documents/workspace/Test/library/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_tint_spinner.xml"
-    },
-    {
-        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_tint_edittext.xml"
-    },
-    {
-        "merged": "/Users/yanftch/Documents/workspace/Test/library/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_tint_switch_thumb.xml"
-    },
-    {
-        "merged": "/Users/yanftch/Documents/workspace/Test/library/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_hint_foreground_material_dark.xml"
-    },
-    {
-        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "/Users/yanftch/Documents/workspace/Test/library/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "/Users/yanftch/Documents/workspace/Test/library/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "/Users/yanftch/Documents/workspace/Test/library/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_hint_foreground_material_light.xml"
-    },
-    {
-        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_tint_spinner.xml"
-    },
-    {
-        "merged": "/Users/yanftch/Documents/workspace/Test/library/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_tint_edittext.xml"
-    },
-    {
-        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_hint_foreground_material_light.xml"
-    },
-    {
-        "merged": "/Users/yanftch/Documents/workspace/Test/library/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_primary_text_material_dark.xml"
+        "source": "/Users/yanftch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/e46f02a99826d208792e11fd68b94626/res/color/abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_search_url_text.xml"
+        "source": "/Users/yanftch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/e46f02a99826d208792e11fd68b94626/res/color/abc_search_url_text.xml"
     },
     {
         "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_tint_seek_thumb.xml"
+        "source": "/Users/yanftch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/e46f02a99826d208792e11fd68b94626/res/color/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/Users/yanftch/Documents/workspace/Test/library/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_secondary_text_material_light.xml"
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/yanftch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/e46f02a99826d208792e11fd68b94626/res/color/switch_thumb_material_light.xml"
     },
     {
         "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/switch_thumb_material_dark.xml"
+        "source": "/Users/yanftch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/e46f02a99826d208792e11fd68b94626/res/color/switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/Users/yanftch/Documents/workspace/Test/library/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "/Users/yanftch/Documents/workspace/Test/library/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/switch_thumb_material_dark.xml"
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/yanftch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/e46f02a99826d208792e11fd68b94626/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "source": "/Users/yanftch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/e46f02a99826d208792e11fd68b94626/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/Users/yanftch/Documents/workspace/Test/library/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_hint_foreground_material_dark.xml"
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/yanftch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/e46f02a99826d208792e11fd68b94626/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/Users/yanftch/Documents/workspace/Test/library/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_tint_default.xml"
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/yanftch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/e46f02a99826d208792e11fd68b94626/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/yanftch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/e46f02a99826d208792e11fd68b94626/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
         "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_secondary_text_material_light.xml"
+        "source": "/Users/yanftch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/e46f02a99826d208792e11fd68b94626/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/yanftch/Documents/workspace/Test/library/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_tint_switch_track.xml"
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/yanftch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/e46f02a99826d208792e11fd68b94626/res/color/abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/yanftch/Documents/workspace/Test/library/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_search_url_text.xml"
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/yanftch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/e46f02a99826d208792e11fd68b94626/res/color/abc_tint_switch_track.xml"
     },
     {
         "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_tint_switch_thumb.xml"
+        "source": "/Users/yanftch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/e46f02a99826d208792e11fd68b94626/res/color/abc_tint_switch_thumb.xml"
     },
     {
         "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_tint_default.xml"
+        "source": "/Users/yanftch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/e46f02a99826d208792e11fd68b94626/res/color/abc_tint_default.xml"
     },
     {
-        "merged": "/Users/yanftch/Documents/workspace/Test/library/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
-        "source": "/Users/yanftch/.android/build-cache/315771417e7a39c416b7b40271c061828b5f01d1/output/res/color/abc_tint_seek_thumb.xml"
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/yanftch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/e46f02a99826d208792e11fd68b94626/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/yanftch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/e46f02a99826d208792e11fd68b94626/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/yanftch/Documents/workspace/as_workspace/Test/library/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/yanftch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/e46f02a99826d208792e11fd68b94626/res/color/abc_tint_spinner.xml"
     }
 ]
